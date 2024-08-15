@@ -1,0 +1,7 @@
+The MazeSolver GUI allows the user to create a Maze using grids.
+
+The options you will have include setting a "Start", "End", and "Obstacle".
+
+Once you have done that, you can either reset the squares, solve the maze, or reset the entire maze.
+
+Don’t forget to check the “Extras” tab for additional information and settings.
